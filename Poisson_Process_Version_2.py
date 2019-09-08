@@ -5,7 +5,7 @@ from Poisson_Sampler import Poisson_Sampler
 #m Main Program
 
 #data
-N = 70
+N = 10000
 te = [] # generate a list
 Mean = 3
 
